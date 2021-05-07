@@ -1,0 +1,5 @@
+.idea/
+cmake-buiid-release/
+cmake-build-debug/
+
+*.o
