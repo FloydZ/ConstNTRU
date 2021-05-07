@@ -1,0 +1,3 @@
+[submodule "deps/ConstRand"]
+	path = deps/ConstRand
+	url = https://github.com/FloydZ/ConstRand
